@@ -1,0 +1,1 @@
+mvn clean install findbugs:findbugs findbugs:gui
